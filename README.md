@@ -33,3 +33,8 @@ Here are some songs by Foo Fighters:
 * Times Like These
 * Everlong
 * My Hero
+
+### Personal Ranking
+1. Foo Fighters
+2. Led Zeppelin
+3. Metallica
